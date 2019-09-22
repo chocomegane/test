@@ -1,3 +1,3 @@
 
 
-perl text.pl
+perl test.pl hello

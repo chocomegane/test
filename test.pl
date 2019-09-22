@@ -1,1 +1,1 @@
-print "Hello, World. \n ";
+print "$ARGV[0]  \n";
